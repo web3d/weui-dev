@@ -1,0 +1,3 @@
+<template>
+  checkbox demo
+</template>
